@@ -1,0 +1,19 @@
+{
+  "name": "nwdoang-skills",
+  "version": "0.1.0",
+  "description": "Reusable agent skills for focused software-engineering workflows.",
+  "author": {
+    "name": "Marchel",
+    "url": "https://github.com/nwdoang"
+  },
+  "repository": "https://github.com/nwdoang/skills",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "engineering",
+    "context-management"
+  ],
+  "skills": [
+    "./skills/engineering/context-perimeter"
+  ]
+}

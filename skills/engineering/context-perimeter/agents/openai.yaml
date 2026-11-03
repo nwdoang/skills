@@ -1,0 +1,6 @@
+interface:
+  display_name: "Context Perimeter"
+  short_description: "Keep repository exploration within task scope"
+  default_prompt: "Use $context-perimeter to keep exploration focused on the active project."
+policy:
+  allow_implicit_invocation: true

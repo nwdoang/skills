@@ -1,0 +1,15 @@
+{
+  "name": "nwdoang-skills",
+  "description": "Reusable public agent skills by nwdoang.",
+  "owner": {
+    "name": "Marchel",
+    "url": "https://github.com/nwdoang"
+  },
+  "plugins": [
+    {
+      "name": "nwdoang-skills",
+      "source": "./",
+      "description": "Reusable agent skills for software-engineering workflows."
+    }
+  ]
+}
